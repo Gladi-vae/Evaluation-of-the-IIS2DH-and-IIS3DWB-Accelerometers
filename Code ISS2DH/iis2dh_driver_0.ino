@@ -1,4 +1,12 @@
-// -------------------------------- CODE ULTIME AVEC SELECTION DE TEMPS - VERSION SANS INTERRUPTION----------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------
+//
+// Auteur: Victor Fourel, Date: Juin 2025
+//
+// Ce code permet de créer un wifi sur un esp32 Dev Kit C-1. Une fois connecté avec un pc, on peut accéder à la page 
+// web 192.168.1 qui permet de configurer le capteur et de lancer l'acquisition des données.
+// Le fichier CSV se télécharge automatiquement dans le navigateur au bout d'un moment.
+//
+//--------------------------------------------------------------------------------------------------
 #include <Arduino.h>
 #include <WiFi.h>
 #include <WebServer.h>
