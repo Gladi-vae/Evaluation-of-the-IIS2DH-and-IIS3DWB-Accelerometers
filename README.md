@@ -1,6 +1,7 @@
 # Evaluation de l'accéléromètre IIS2DH (ST) - ONAMAZU
 
 The primary goal of this repository is to share my work. If it goes beyond that and be useful to someone, I will be more than happy.
+
 Ce dépôt a pour but primaire de partager mon travail. S'il peut dépasser cette fonction et être utile à quelqu'un, vous m'en trouverez ravi.
 
 Dans le cadre d'un stage chez SADAL ENGINEERING en Juin 2025, j'ai travaillé sur l'évaluation de deux accéléromètres: le IIS2DH et l'IIS3DWB de chez ST.
