@@ -1,4 +1,4 @@
-# Evaluation de l'accéléromètre IIS2DH (ST) - ONAMAZU
+# Evaluation of the IIS2DH and IIS3DWB Accelerometers - ONAMAZU
 
 The primary goal of this repository is to share my work. If it goes beyond that and be useful to someone, I will be more than happy.
 
