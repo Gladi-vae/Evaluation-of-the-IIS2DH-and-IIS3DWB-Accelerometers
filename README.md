@@ -10,7 +10,7 @@ The primary goal of this repository is to share my work. If it goes beyond that 
 
 Ce dépôt a pour but primaire de partager mon travail. S'il peut dépasser cette fonction et être utile à quelqu'un, vous m'en trouverez ravi.
 
-Dans le cadre d'un stage chez **SADAL ENGINEERING** en juin 2025, j'ai travaillé sur l'évaluation de deux accéléromètres : le **IIS2DH** et le **IIS3DWB** de chez ST.
+Dans le cadre d'un stage chez [SADAL ENGINEERING](https://sadal-engineering.com/) en juin 2025, j'ai travaillé sur l'évaluation de deux accéléromètres : le **IIS2DH** et le **IIS3DWB** de chez ST.
 
 ### Contenu du dépôt
 
