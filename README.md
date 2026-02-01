@@ -2,15 +2,25 @@
 
 ---
 
-## 🇺🇸 English Version
+## English Version
 
 The primary goal of this repository is to share my work. If it goes beyond that and is useful to someone, I will be more than happy.
 
-## 🇫🇷 Version Française
+As part of an internship at [SADAL ENGINEERING](http://www.sadal-engineering.com/) in June 2025, I worked on the evaluation of two accelerometers: the **IIS2DH** and the **IIS3DWB** from STMicroelectronics.
+
+### Repository Content
+
+* **"Code IIS2DH" Folder**: Contains complete code to configure the IIS2DH on an **ESP32S3 DevKit C-1**. Sensor acquisition can be configured and launched via a web page (IP 192.168.X.X) accessible once connected to the ESP's WiFi. A CSV file containing the data is automatically downloaded after the acquisition.
+  
+* **"Résultats Projet" Folder**: Contains my report as well as a folder including experimental data logs and the Python scripts used to read them.
+
+---
+
+## Version Française
 
 Ce dépôt a pour but primaire de partager mon travail. S'il peut dépasser cette fonction et être utile à quelqu'un, vous m'en trouverez ravi.
 
-Dans le cadre d'un stage chez [SADAL ENGINEERING](https://www.sadal-engineering.com/) en juin 2025, j'ai travaillé sur l'évaluation de deux accéléromètres : le **IIS2DH** et le **IIS3DWB** de chez ST.
+Dans le cadre d'un stage chez [SADAL ENGINEERING](http://www.sadal-engineering.com/) en juin 2025, j'ai travaillé sur l'évaluation de deux accéléromètres : le **IIS2DH** et le **IIS3DWB** de chez ST.
 
 ### Contenu du dépôt
 
